@@ -1,6 +1,6 @@
 # Hey, I'm Kevin! 👋
 
-[Kevin Edwards](./src/kedwards-signature.svg)
+[Kevin Edwards](https://raw.githubusercontent.com/kedwards/kedwards/kedwards-patch-1/src/kedwards-signature.svg)
 
 <p align="center">
     <a href="https://github.com/kedwards/kedwards"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
