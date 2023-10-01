@@ -1,6 +1,6 @@
 ### Welcome Kevin's Github Home
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&repeat=false&width=650&lines=Hi%2C+I'm+Kevin+Edwards+DevOps+leader+%40+LivITy+%26+Reach)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&repeat=false&width=800&lines=Hi%2C+I'm+Kevin,+IT+Professional,+DevOps+leader,+and+family+slave..)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://github.com/kedwards/kedwards"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -14,9 +14,9 @@
 [![DevOps Header](./src/devops-header.png)](#)
 
 ---
-<div style="text-align: center;">
-    I build lots of stuff for fun and profit! I currently manage the DevOps practises @ <a href="https://www.withreach.com/company">Rēāc̄h</a>
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&repeat=false&width=900&lines=I+build+things+for+fun+and+profit!+and+manage+the+DevOps+practises+at+Reach)](https://git.io/typing-svg)
+
 <!--
 **kedwards/kedwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
