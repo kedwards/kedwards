@@ -1,6 +1,6 @@
 # Hey, I'm Kevin! 👋
 
-![Kevin Edwards](./src/kedwards.svg)
+[Kevin Edwards](./src/kedwards-signature.svg)
 
 <p align="center">
     <a href="https://github.com/kedwards/kedwards"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -11,7 +11,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=kedwards.kedwards" alt="visitors"/>
 </p>
 
-[![DevOps Header](./src/header_.png)](#)
+[![DevOps Header](./src/devops-header.png)](#)
 
 ---
 
