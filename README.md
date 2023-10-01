@@ -15,7 +15,7 @@
 
 ---
 <div style="text-align: center;">
-    Hi. I’m Kevin. I build lots of stuff for fun and profit! I currently manage the DevOps practises @ <a href="https://github.com/withreach">Rēāc̄h</a>
+    I build lots of stuff for fun and profit! I currently manage the DevOps practises @ <a href="https://www.withreach.com/company">Rēāc̄h</a>
 </div>
 <!--
 **kedwards/kedwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
